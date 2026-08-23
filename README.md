@@ -67,5 +67,10 @@ Music-Player-CodeAlpha-Task-2/
     └── song5.mp3
 
 ---
+---
+
+## 👨‍💻 Author
+
+**Mohammad Sajeed**
 
 
