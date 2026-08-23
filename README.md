@@ -66,10 +66,10 @@ Music-Player-CodeAlpha-Task-2/
     ├── song4.mp3
     └── song5.mp3
 
----
+```
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mohammad Sajeed**
 
