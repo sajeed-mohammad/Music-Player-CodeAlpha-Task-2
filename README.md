@@ -50,6 +50,18 @@ It includes:
 
 ---
 
+##  Audio Copyright & Credits
+
+This project is created for educational and demonstration purposes as part of the CodeAlpha Internship.
+
+The developer does not claim ownership of any third-party music used in this project. All rights, ownership, and credits belong to the respective original music creators or copyright holders.
+
+Only original, owned, or legally permitted audio should be used when distributing this project publicly.
+
+If third-party music is used, proper credit should be given to the respective original creators. Copyrighted commercial music should not be redistributed through this repository without appropriate permission.
+
+---
+
 ##  Project Structure
 
 ```text
