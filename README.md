@@ -68,7 +68,6 @@ Music-Player-CodeAlpha-Task-2/
 
 ---
 
-
 ## 👨‍💻 Author
 
 **Mohammad Sajeed**
