@@ -25,6 +25,12 @@ It includes:
 
 ---
 
+## Live Demo
+
+https://sajeed-mohammad.github.io/Music-Player-CodeAlpha-Task-2/
+
+---
+
 ##  Objectives
 
 - Build a functional music player using JavaScript.
@@ -84,5 +90,7 @@ Music-Player-CodeAlpha-Task-2/
 ##  Author
 
 **Mohammad Sajeed**
+
+This Project was Completed as a part of CodeAlpha Front-End Development-- Internship 
 
 
