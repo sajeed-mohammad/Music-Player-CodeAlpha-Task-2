@@ -1,6 +1,6 @@
 #  Music Player using JavaScript
 
-A responsive and interactive **Music Player Web Application** developed using **HTML, CSS, and JavaScript** as part of the **CodeAlpha Internship**.
+A responsive and interactive **Music Player Web Application** developed using **HTML, CSS, and JavaScript.** 
 
 The project provides a clean music-player interface with essential audio controls, playlist management, progress tracking, volume control, and autoplay functionality. The UI is designed to work effectively on both **desktop/laptop and mobile devices**.
 
@@ -27,7 +27,7 @@ It includes:
 
 ## Live Demo
 
-https://sajeed-mohammad.github.io/Music-Player-CodeAlpha-Task-2/
+
 
 ---
 
@@ -91,6 +91,6 @@ Music-Player-CodeAlpha-Task-2/
 
 **Mohammad Sajeed**
 
-This Project was Completed as a part of CodeAlpha Front-End Development-- Internship 
+
 
 
